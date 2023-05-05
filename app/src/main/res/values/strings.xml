@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Almacenamiento_datos_Ficheros</string>
+    <string name="title">Bitacora Personal de Usuario</string>
+    <string name="save">Guardar</string>
+</resources>
